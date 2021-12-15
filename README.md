@@ -1,0 +1,1 @@
+# shoppr-example-config-repo
